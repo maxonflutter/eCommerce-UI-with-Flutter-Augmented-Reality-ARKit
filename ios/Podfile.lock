@@ -1,0 +1,36 @@
+PODS:
+  - arkit_plugin (0.0.1):
+    - Flutter
+    - GLTFSceneKit
+  - Flutter (1.0.0)
+  - GLTFSceneKit (0.3.0)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - arkit_plugin (from `.symlinks/plugins/arkit_plugin/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - GLTFSceneKit
+
+EXTERNAL SOURCES:
+  arkit_plugin:
+    :path: ".symlinks/plugins/arkit_plugin/ios"
+  Flutter:
+    :path: Flutter
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+
+SPEC CHECKSUMS:
+  arkit_plugin: bb56e71ef215147316ecf3774d5cb74beda20a10
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  GLTFSceneKit: d1b437c514ba2aed5555afb0fddd64e030612d57
+  path_provider_foundation: 3784922295ac71e43754bd15e0653ccfd36a147c
+
+PODFILE CHECKSUM: 4e8f8b2be68aeea4c0d5beb6ff1e79fface1d048
+
+COCOAPODS: 1.15.2

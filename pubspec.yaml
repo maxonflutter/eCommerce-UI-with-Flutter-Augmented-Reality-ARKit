@@ -1,0 +1,72 @@
+name: augmented_reality_with_flutter
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+
+  cupertino_icons: ^1.0.2
+  arkit_plugin: ^1.0.7
+  vector_math: ^2.1.4
+  flutter_staggered_grid_view: ^0.7.0
+  google_fonts: ^6.1.0
+  flex_color_scheme: ^7.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/
+    - assets/gltf/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
