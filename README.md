@@ -1,16 +1,6 @@
-# augmented_reality_with_flutter
+# eCommerce UI with Flutter Augmented Reality ARKit (iOS only)
+The project aims to showcase how to display 3D shapes (created with Spline) in a AR-enabled application with Flutter (on iOS). The goal is to provide an immersive experience to the app users by allowing them to see the e-commerce products in the environment around them. 
 
-A new Flutter project.
+### Video tutorial: https://youtu.be/f7pbH_u9xno
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Hero](screenshots/ar-with-flutter.png)<br />
